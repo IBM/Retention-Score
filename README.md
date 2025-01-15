@@ -1,6 +1,6 @@
 # Retention Score: Quantifying Jailbreak Risks for Vision Language Models
 
-This is the official implementation of the paper "Retention Score: Quantifying Jailbreak Risks for Vision Language Models", accepted at NeurIPS 2024.
+This is the official implementation of the paper "Retention Score: Quantifying Jailbreak Risks for Vision Language Models", accepted at AAAI 2025.
 
 ## Table of Contents
 - [Code Explanation](#code-explanation)
